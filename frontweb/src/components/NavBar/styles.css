@@ -23,9 +23,8 @@
   color: #00285f;
 }
 
-.main-menu a:active {
+.main-menu a.active {
   font-weight: bold;
-  color: #fff;
 }
 
 .main-menu a:hover {
