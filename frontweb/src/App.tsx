@@ -2,10 +2,12 @@ import './assets/styles/custom.scss';
 
 import './App.css';
 
-function App() {
+import NavBar from 'components/NavBar';
+
+const App = () => {
   return (
     <div className="App">
-      <h1>Começando o CarroTop</h1>
+      <NavBar />
     </div>
   );
 }
