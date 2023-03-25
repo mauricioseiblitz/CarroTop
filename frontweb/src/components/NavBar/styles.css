@@ -6,3 +6,28 @@
 .nav-logo-text {
   color: #00285f;
 }
+
+.nav-logo-text:hover {
+  color: #fff;
+}
+
+.main-menu {
+  display: flex;
+  font-size: 18px;
+  width: 380px;
+  justify-content: space-between;
+}
+
+.main-menu a {
+  font-style: normal;
+  color: #00285f;
+}
+
+.main-menu a:active {
+  font-weight: bold;
+  color: #fff;
+}
+
+.main-menu a:hover {
+  color: #fff;
+}
