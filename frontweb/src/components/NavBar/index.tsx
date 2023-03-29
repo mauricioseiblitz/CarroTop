@@ -27,7 +27,7 @@ const NavBar = () => {
                             <a href="link" className="active">HOME</a>
                         </li>
                         <li>
-                            <a href="link">CATÁLOGO</a>
+                            <a href="./pages/CATALOG/index.tsx">CATÁLOGO</a>
                         </li>
                     </ul>
                 </div>

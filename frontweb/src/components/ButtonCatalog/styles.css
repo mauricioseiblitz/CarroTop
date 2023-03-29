@@ -1,13 +1,16 @@
 .btn-container {
   display: flex;
-  justify-content: center;
-  margin-top: 28px;
+  margin-top: 26px;
 }
 
 .btn-container button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   border-radius: 5px;
   background-color: #00285f;
-  width: 174px;
+  width: 258px;
+  height: 40px;
 }
 
 .btn h6 {
@@ -15,7 +18,4 @@
   font-size: 16px;
   text-transform: uppercase;
   margin-top: 8px;
-}
-
-@media (min-width: 576px) {
 }

@@ -15,9 +15,7 @@ const Home = () => {
             </div>
             <div className="button-card">
                 <div className="home-button-container">
-                    <div>
-                        <ButtonIcon />
-                    </div>
+                    <ButtonIcon />
                     <p>Comece agora a navegar</p>
                 </div>
             </div>
