@@ -5,7 +5,7 @@ import ButtonCatalog from 'components/ButtonCatalog';
 
 const CarCard = () => {
     return (
-        <div className="base-card car-card">
+        <div className="base-card car-card bg-secondary">
             <div className="card-top-container">
                 <img src={CarImg} alt="Imagem do carro" />
             </div>
