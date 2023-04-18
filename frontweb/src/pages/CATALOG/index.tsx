@@ -6,10 +6,31 @@ const Catalog = () => {
         <div className="container my-4">
             <Search />
             <div className="row">
-                <div className="col-sm-6 col-lg-4 col-xl-3">
+                <div className="col-sm-6 col-lg-4 col-xl-4">
                     <ProductCard />
                 </div>
-                <div className="col-sm-6 col-lg-4 col-xl-3">
+                <div className="col-sm-6 col-lg-4 col-xl-4">
+                    <ProductCard />
+                </div>
+                <div className="col-sm-6 col-lg-4 col-xl-4">
+                    <ProductCard />
+                </div>
+                <div className="col-sm-6 col-lg-4 col-xl-4">
+                    <ProductCard />
+                </div>
+                <div className="col-sm-6 col-lg-4 col-xl-4">
+                    <ProductCard />
+                </div>
+                <div className="col-sm-6 col-lg-4 col-xl-4">
+                    <ProductCard />
+                </div>
+                <div className="col-sm-6 col-lg-4 col-xl-4">
+                    <ProductCard />
+                </div>
+                <div className="col-sm-6 col-lg-4 col-xl-4">
+                    <ProductCard />
+                </div>
+                <div className="col-sm-6 col-lg-4 col-xl-4">
                     <ProductCard />
                 </div>
             </div>
